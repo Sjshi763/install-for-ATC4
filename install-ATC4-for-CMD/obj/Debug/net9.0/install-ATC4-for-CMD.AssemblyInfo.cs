@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("install-ATC4-for-CMD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40ae3519c5e1b1df5596666098dba7ecc4b49b4f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fce064b995a7b84dfd7c88873f33c2038e37932")]
 [assembly: System.Reflection.AssemblyProductAttribute("install-ATC4-for-CMD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("install-ATC4-for-CMD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
